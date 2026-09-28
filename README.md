@@ -23,7 +23,7 @@ PalmPilot is a Python-based desktop application that lets you control your compu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/PalmPilot.git
+   git clone https://github.com/No-Thing01/PalmPilot.git
    cd PalmPilot
    ```
 
